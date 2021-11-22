@@ -3,12 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/AA/AndroidStudioProjects/Appstudy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/AA/AndroidStudioProjects/Appstudy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/AA/AndroidStudioProjects/Appstudy/app/src/main/res/drawable/outline1.xml" value="0.38229166666666664" />
-        <entry key="..\:/Users/AA/AndroidStudioProjects/Appstudy/app/src/main/res/drawable/outline2.xml" value="0.38229166666666664" />
-        <entry key="..\:/Users/AA/AndroidStudioProjects/Appstudy/app/src/main/res/layout/activity_main.xml" value="0.30648148148148147" />
-        <entry key="..\:/Users/AA/AndroidStudioProjects/Appstudy/app/src/main/res/layout/login_layout.xml" value="0.33" />
+        <entry key="..\:/Users/0517l/AndroidStudioProjects/App01/app/src/main/res/layout/app_login.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/0517l/AndroidStudioProjects/App01/app/src/main/res/layout/app_login_original.xml" value="0.1" />
+        <entry key="..\:/Users/0517l/AndroidStudioProjects/App01/app/src/main/res/layout/login_layout.xml" value="0.1" />
       </map>
     </option>
   </component>
